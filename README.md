@@ -41,8 +41,6 @@ The laboratory measurements also showed variation in round-trip time. For exampl
 
 The experiments were performed on university computers using virtual machines. The original simulation files, configuration files and raw measurement logs were not retained. This repository contains the report and selected figures; it does not include a runnable reproduction of the laboratory environment.
 
-The report favors AODV for its rescue-network scenario. Its approximately **2.7-second AODV recovery result was supplied by the professor**, as stated on printed pages 38-40. It should not be attributed to a recovery measurement made by the team, despite the wording in the conclusion. The reported comparison is specific to the laboratory setup and does not establish that AODV is always preferable to OLSR.
-
 The measurements are ping **round-trip times**, rather than one-way delays. The report's comparison with a 150 ms threshold is not, by itself, a validation of voice or video service quality.
 
 The report is preserved as submitted, apart from redacting a password note visible in one photograph. Its screenshots include course-provided instructions and configurations.
@@ -56,7 +54,6 @@ Authors, as credited in the report:
 - Ali Mehrabikouchehbiouk (Ali Mehrabi)
 - Alejandro Valle Gonzalez
 
-The laboratory work was carried out collaboratively throughout the project. This repository presents the shared team work as part of Ali Mehrabi's portfolio.
-
+The laboratory work was carried out collaboratively throughout the project. 
 **Instructor:** Carles Gomez Montenegro  
 **Report date:** 23 May 2026
